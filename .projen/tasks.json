@@ -65,7 +65,7 @@
       "description": "Synthesize project files",
       "steps": [
         {
-          "exec": "python3 .projenrc.py"
+          "exec": "python .projenrc.py"
         }
       ]
     },

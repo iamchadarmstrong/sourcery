@@ -1,6 +1,6 @@
 import pytest
 
-from sourcery_hack.example import hello
+from sourcery.example import hello
 
 @pytest.mark.parametrize(
     ("name", "expected"),
