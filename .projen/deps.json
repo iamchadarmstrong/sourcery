@@ -1,8 +1,16 @@
 {
   "dependencies": [
     {
+      "name": "black",
+      "type": "devenv"
+    },
+    {
       "name": "projen",
       "version": "0.74.17",
+      "type": "devenv"
+    },
+    {
+      "name": "sourcery_cli",
       "type": "devenv"
     },
     {

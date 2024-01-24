@@ -15,5 +15,7 @@ readme = "README.md"
   python = "^3.7"
 
   [tool.poetry.dev-dependencies]
+  black = "*"
   projen = "0.74.17"
+  sourcery_cli = "*"
   pytest = "6.2.1"
